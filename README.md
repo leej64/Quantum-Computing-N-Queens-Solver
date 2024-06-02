@@ -14,4 +14,9 @@
     𝜃=〖sin^(−1) (√(𝑆/𝑁^𝑁 )) <br />
     𝑡=|𝜋/4𝜃|=|𝜋/4𝜃 √(𝑁^𝑁/𝑆)| <br />
     where number of states is 𝑁^𝑁 and number of solutions is 𝑆.
-    For example, when N=8 and S=92, t=335.
+    For example, when N=8 and S=92, t=335. <br />
+
+References <br />
+Rouse Ball, W. W. “The Eight Queens Problem”, Mathematical Recreations and Essays, Macmillan, New York, pp. 165–171, 1960. <br />
+Grover, L. K. “A fast quantum mechanical algorithm for database search,” Proceedings of the 28th Annual ACM Symposium Theory of Computing, vol. 212, 1996. <br />
+Ha Jin Young et al, “Configuration for Quantum Search Algorithm solving N-Queens Problem”, Journal of the Korea Institute of Information and Communication Engineering, 2020 <br />
